@@ -1,3 +1,5 @@
+https://github.com/kaansahinusa/piitproject
+
 1) Created Ec2 instance on AWS based on Amazon Linux.
    Updated repositories
    Installed httpd web server
